@@ -1,4 +1,4 @@
 class Demo
 {
-syso
+b b = new();
 }
