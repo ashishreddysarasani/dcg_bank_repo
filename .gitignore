@@ -1,6 +1,6 @@
 HELP.md
-c.java
 db.properties
+c.java
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
