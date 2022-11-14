@@ -1,1 +1,3 @@
-class test {}
+class test {
+Demo d = new Demo();
+}
