@@ -1,4 +1,4 @@
 class Demo
 {
-b b = new();
+b b = b new();
 }
