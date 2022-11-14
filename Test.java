@@ -1,5 +1,5 @@
 class test {
 Demo d = new Demo();
   // printing status
-  system.out.printl("listn ");
+  system.out.printl("listen the demos ");
 }
