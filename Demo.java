@@ -4,6 +4,7 @@ class Demo
 B b = new B();
 Test t = new Test();
   Bank b = new Bank();
-  Demo d = new Demo();
+Repo r = new Repo();
+  Demo d = new Demo("mydemo");
 public A a = new A();
 }
